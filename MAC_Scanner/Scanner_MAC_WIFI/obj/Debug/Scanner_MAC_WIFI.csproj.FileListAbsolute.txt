@@ -1,0 +1,10 @@
+C:\Users\TeslaCesar\source\repos\MAC_Scanner\Scanner_MAC_WIFI\bin\Debug\Scanner_MAC_WIFI.exe.config
+C:\Users\TeslaCesar\source\repos\MAC_Scanner\Scanner_MAC_WIFI\bin\Debug\Scanner_MAC_WIFI.exe
+C:\Users\TeslaCesar\source\repos\MAC_Scanner\Scanner_MAC_WIFI\bin\Debug\Scanner_MAC_WIFI.pdb
+C:\Users\TeslaCesar\source\repos\MAC_Scanner\Scanner_MAC_WIFI\obj\Debug\Scanner_MAC_WIFI.csproj.AssemblyReference.cache
+C:\Users\TeslaCesar\source\repos\MAC_Scanner\Scanner_MAC_WIFI\obj\Debug\Scanner_MAC_WIFI.Properties.Resources.resources
+C:\Users\TeslaCesar\source\repos\MAC_Scanner\Scanner_MAC_WIFI\obj\Debug\Scanner_MAC_WIFI.csproj.GenerateResource.cache
+C:\Users\TeslaCesar\source\repos\MAC_Scanner\Scanner_MAC_WIFI\obj\Debug\Scanner_MAC_WIFI.csproj.CoreCompileInputs.cache
+C:\Users\TeslaCesar\source\repos\MAC_Scanner\Scanner_MAC_WIFI\obj\Debug\Scanner_MAC_WIFI.exe
+C:\Users\TeslaCesar\source\repos\MAC_Scanner\Scanner_MAC_WIFI\obj\Debug\Scanner_MAC_WIFI.pdb
+C:\Users\TeslaCesar\source\repos\MAC_Scanner\Scanner_MAC_WIFI\obj\Debug\Scanner_MAC_WIFI.Wifi_Scanner.resources
